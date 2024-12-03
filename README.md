@@ -1,4 +1,4 @@
-## Hi there 👋
+![Hi there](https://github.com/Polchasa/Polchasa/blob/main/header.png)
 
 <!--
 **Polchasa/Polchasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
